@@ -1,7 +1,6 @@
 # ArtBlock - NFT Marketplace
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/artblock/ci.yml?branch=main)
 ![GitHub issues](https://img.shields.io/github/issues/naman-bhayana/ArtBlock)
 ![GitHub stars](https://img.shields.io/github/stars/naman-bhayana/ArtBlock)
 ![GitHub forks](https://img.shields.io/github/forks/naman-bhayana/ArtBlock)
