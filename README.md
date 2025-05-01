@@ -2,9 +2,9 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/artblock/ci.yml?branch=main)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/artblock)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/artblock)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/artblock)
+![GitHub issues](https://img.shields.io/github/issues/naman-bhayana/ArtBlock)
+![GitHub stars](https://img.shields.io/github/stars/naman-bhayana/ArtBlock)
+![GitHub forks](https://img.shields.io/github/forks/naman-bhayana/ArtBlock)
 
 <p align="center">
   <img src="assets/logo.png" alt="ArtBlock Logo" width="200">
@@ -14,7 +14,7 @@ ArtBlock is a simple NFT marketplace that enables creators to showcase and sell 
 
 ## 🚀 Demo
 
-Check out the live demo: [ArtBlock Demo](https://yourusername.github.io/artblock)
+Check out the live demo: [ArtBlock Demo](https://naman-bhayana.github.io/ArtBlock)
 
 <p align="center">
   <img src="assets/screenshot.png" alt="ArtBlock Screenshot" width="600">
@@ -68,8 +68,8 @@ This project is designed to be expanded into a full MERN stack application. See 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/artblock.git
-   cd artblock
+   git clone https://github.com/naman-bhayana/ArtBlock.git
+   cd ArtBlock
    ```
 
 2. Install dependencies
@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Naman Bhayana** - *Initial work* - [Your GitHub](https://github.com/naman-bhayana)
+- **Naman Bhayana** - *Initial work* - [naman-bhayana](https://github.com/naman-bhayana)
 
 ## 🙏 Acknowledgements
 
