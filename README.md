@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/naman-bhayana/ArtBlock)
 
 <p align="center">
-  <img src="assets/logo.png" alt="ArtBlock Logo" width="200">
+  <img src="assets/screenshots/logo.png" alt="ArtBlock Logo" width="200">
 </p>
 
 **ArtBlock** is a beginner-friendly NFT marketplace that allows artists to showcase and sell their digital creations securely using blockchain technology. This project simulates blockchain features with mock data and a future-ready MERN stack structure.
