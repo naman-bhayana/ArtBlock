@@ -10,30 +10,66 @@
   <img src="assets/logo.png" alt="ArtBlock Logo" width="200">
 </p>
 
-ArtBlock is a simple NFT marketplace that enables creators to showcase and sell their digital assets securely using blockchain technology.
+**ArtBlock** is a beginner-friendly NFT marketplace that allows artists to showcase and sell their digital creations securely using blockchain technology. This project simulates blockchain features with mock data and a future-ready MERN stack structure.
 
-## 🚀 Demo
 
-Check out the live demo: [ArtBlock Demo](https://naman-bhayana.github.io/ArtBlock)
+## 📸 Screenshots
 
+### 🏠 Home Page
 <p align="center">
-  <img src="assets/screenshot.png" alt="ArtBlock Screenshot" width="600">
+  <img src="assets/screenshots/home.png" alt="Home Page" width="600">
+</p>
+
+### 🛒 Marketplace
+<p align="center">
+  <img src="assets/screenshots/marketplace.png" alt="Marketplace Page" width="600">
+</p>
+
+### 👩‍🎨 Artists
+<p align="center">
+  <img src="assets/screenshots/artists.png" alt="Artists Page" width="600">
+</p>
+
+### ℹ️ About
+<p align="center">
+  <img src="assets/screenshots/about.png" alt="About Page" width="600">
+</p>
+
+
+### 🏠 Home Page
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Home Page" width="600">
+</p>
+
+### 🛒 Marketplace
+<p align="center">
+  <img src="assets/screenshots/marketplace.png" alt="Marketplace Page" width="600">
+</p>
+
+### 👩‍🎨 Artists
+<p align="center">
+  <img src="assets/screenshots/artists.png" alt="Artists Page" width="600">
+</p>
+
+### ℹ️ About
+<p align="center">
+  <img src="assets/screenshots/about.png" alt="About Page" width="600">
 </p>
 
 ## ✨ Features
 
 - 🖼️ Frontend display of NFT listings with images and metadata
 - 👩‍🎨 Artist profiles and collections
-- 🔍 Filtering NFTs by category, price, and search terms
+- 🔍 Filter NFTs by category, price, and search terms
 - 👛 Mock wallet connection functionality
-- 📝 Smart contract for NFT transactions
+- 📝 Solidity smart contract for NFT transactions (simulation only)
 
 ## 🛠️ Technologies Used
 
-- MERN Stack (MongoDB, Express.js, React.js, Node.js) architecture
-- HTML, CSS & JavaScript for the frontend
-- Web3 integration for blockchain simulation
-- Solidity for the smart contract
+- HTML, CSS & JavaScript
+- Web3.js (mock integration)
+- Solidity (smart contract sample)
+- Designed for future integration with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 
 ## 📁 Project Structure
 
@@ -53,9 +89,9 @@ ArtBlock/
 └── docs/                 # Documentation
 ```
 
-## 🏗️ MERN Stack Implementation
+## 🏗️ MERN Stack Roadmap
 
-This project is designed to be expanded into a full MERN stack application. See [MERN_IMPLEMENTATION.md](MERN_IMPLEMENTATION.md) for detailed information on the planned architecture.
+This project is structured to evolve into a full-fledged MERN stack application. See [MERN_IMPLEMENTATION.md](MERN_IMPLEMENTATION.md) for a detailed plan on backend development and React integration.
 
 ## 🚀 Getting Started
 
@@ -84,52 +120,48 @@ This project is designed to be expanded into a full MERN stack application. See 
 
 4. Open your browser and navigate to `http://localhost:8080`
 
-## 🖥️ Frontend Features
+## 🖥️ Frontend Highlights
 
-- Responsive design for different screen sizes
-- Modern UI with smooth animations
-- Filter NFTs by category, price range
-- Search functionality
-- View artist profiles
+- Responsive and accessible design
+- Simple, clean user interface
+- Category and price-based filters
+- Search and artist profile views
+- Animated UI interactions
 
-## 📝 Smart Contract
+## 📝 Smart Contract Overview
 
-The project includes a Solidity smart contract that demonstrates:
+The Solidity contract demonstrates:
 
 - NFT minting
 - Listing NFTs for sale
-- Buying NFTs
-- Marketplace fee implementation
-- Contract ownership management
+- NFT purchases
+- Marketplace fee logic
+- Admin ownership and control
 
-**Note:** The smart contract is provided for demonstration purposes only and is not deployed on any blockchain.
+> ⚠️ *This smart contract is only for demonstration and has not been audited or deployed.*
 
 ## 🛣️ Roadmap
 
-- [ ] Integrate with actual blockchain network
-- [ ] Add user authentication
-- [ ] Implement NFT creation functionality
-- [ ] Add bidding and auction features
-- [ ] Develop backend server with Express.js and MongoDB
-- [ ] Migrate frontend to React.js for improved interactivity
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+- [ ] Integrate with actual Ethereum or Polygon blockchain
+- [ ] Implement NFT minting and upload via React
+- [ ] Add user authentication and wallet connection
+- [ ] Launch backend with Express.js and MongoDB
+- [ ] Introduce bidding, auctions, and offer features
+- [ ] Complete React.js migration for dynamic frontend
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
+## 👥 Author
 
-- **Naman Bhayana** - *Initial work* - [naman-bhayana](https://github.com/naman-bhayana)
+- **Naman Bhayana**  
+  [GitHub](https://github.com/naman-bhayana) | [LinkedIn](https://www.linkedin.com/in/namanbhayana007)
 
 ## 🙏 Acknowledgements
 
-- NFT images sourced from Unsplash
-- User avatars from RandomUser.me
-- Icons from Font Awesome
-- Mock data structure inspired by popular NFT marketplaces 
+- NFT images sourced from [Unsplash](https://unsplash.com)
+- User avatars via [RandomUser.me](https://randomuser.me)
+- Icons provided by [Font Awesome](https://fontawesome.com)
+- Mock data and layout inspired by leading NFT platforms
+
