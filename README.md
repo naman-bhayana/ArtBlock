@@ -116,7 +116,6 @@ The Solidity contract demonstrates:
 - Marketplace fee logic
 - Admin ownership and control
 
-> ⚠️ *This smart contract is only for demonstration and has not been audited or deployed.*
 
 ## 🛣️ Roadmap
 
