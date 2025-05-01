@@ -35,27 +35,6 @@
   <img src="assets/screenshots/about.png" alt="About Page" width="600">
 </p>
 
-
-### 🏠 Home Page
-<p align="center">
-  <img src="assets/screenshots/home.png" alt="Home Page" width="600">
-</p>
-
-### 🛒 Marketplace
-<p align="center">
-  <img src="assets/screenshots/marketplace.png" alt="Marketplace Page" width="600">
-</p>
-
-### 👩‍🎨 Artists
-<p align="center">
-  <img src="assets/screenshots/artists.png" alt="Artists Page" width="600">
-</p>
-
-### ℹ️ About
-<p align="center">
-  <img src="assets/screenshots/about.png" alt="About Page" width="600">
-</p>
-
 ## ✨ Features
 
 - 🖼️ Frontend display of NFT listings with images and metadata
